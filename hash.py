@@ -18,7 +18,7 @@ lastHash = ""
 keysFingerAreOn = ['tab', '2', '3', 'r', 'o', '-', '=', '\\']
 
 mode1 = "aseronit"
-mode2 = "cwdmupgh"
+mode2 = "cldmupgh"
 mode3 = "bfjwvkqy"
 mode4 = "zx"
 
